@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinkUp</string>
+    <string name="tagline">Find nearby plans. Meet people for real.</string>
+    <string name="emoji_pin">📍</string>
+    <string name="emoji_telescope">🔭</string>
+    <string name="emoji_bell">🔔</string>
+
+    <!-- Screen titles -->
+    <string name="title_discover">Nearby activities</string>
+    <string name="title_new_plan">New activity</string>
+    <string name="title_edit_plan">Edit activity</string>
+    <string name="title_edit_profile">Edit profile</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_pick_location">Pick the meeting point</string>
+
+    <!-- Navigation drawer -->
+    <string name="drawer_open">Open menu</string>
+    <string name="drawer_close">Close menu</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_my_plans">My activities</string>
+    <string name="nav_inbox">Inbox</string>
+    <string name="nav_inbox_count">Inbox (%1$d)</string>
+    <string name="nav_section_account">Account</string>
+    <string name="nav_profile">My profile</string>
+    <string name="nav_safety">Safety</string>
+    <string name="nav_logout">Log out</string>
+
+    <!-- Common actions -->
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_not_now">Not now</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_done">Done</string>
+    <string name="action_save">Save</string>
+    <string name="action_test">Test</string>
+    <string name="action_default">Default</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_view">View</string>
+    <string name="action_login">Log in</string>
+    <string name="action_register">Create account</string>
+    <string name="action_new_plan">New activity</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_sort">Sort by</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_share">Share</string>
+    <string name="action_calendar">Add to calendar</string>
+    <string name="action_calendar_short">Calendar</string>
+    <string name="action_directions">Directions</string>
+    <string name="action_chat">Chat</string>
+    <string name="action_send">Send</string>
+    <string name="action_my_location">My location</string>
+    <string name="action_approve">Approve</string>
+    <string name="action_decline">Decline</string>
+    <string name="action_block">Block</string>
+    <string name="action_unblock">Unblock</string>
+    <string name="action_report_user">Report this person</string>
+    <string name="action_cancel_plan">Cancel activity</string>
+    <string name="action_mark_read">Mark all as read</string>
+    <string name="action_clear_all">Clear all</string>
+
+    <!-- Login / register -->
+    <string name="login_welcome">Welcome back</string>
+    <string name="login_create_account">New here? Create an account</string>
+    <string name="login_server">Server: %1$s (tap to change)</string>
+    <string name="register_heading">Join LinkUp</string>
+    <string name="register_email_hint">Tip: a college email (.edu, .edu.in or .ac.in) gets a verified badge.</string>
+    <string name="register_email_campus">✓ College email: you\'ll get the verified badge.</string>
+    <string name="register_agree">I\'ll meet people in public places and follow the community safety guidelines.</string>
+    <string name="label_name">Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_confirm_password">Confirm password</string>
+    <string name="label_bio">About you</string>
+    <string name="hint_name">Your first name is enough</string>
+    <string name="hint_email">you@college.ac.in</string>
+    <string name="hint_password">Your password</string>
+    <string name="hint_new_password">At least 6 characters</string>
+    <string name="hint_confirm_password">Type it again</string>
+    <string name="hint_bio">A line or two about you: what you study, what you like doing</string>
+    <string name="password_rule">At least 6 characters.</string>
+    <string name="password_short">Too short: use at least 6 characters.</string>
+    <string name="password_ok">OK. Longer, with numbers or symbols, is stronger.</string>
+    <string name="password_strong">Strong password.</string>
+    <string name="progress_login">Logging in…</string>
+    <string name="progress_register">Creating your account…</string>
+    <string name="progress_logout">Logging out…</string>
+    <string name="logout_title">Log out?</string>
+    <string name="logout_message">Anything not yet sent will be synced first. Your activities stay saved on the server.</string>
+
+    <!-- Discover -->
+    <string name="search_hint">Search title, place…</string>
+    <string name="discover_empty_title">Nothing here yet</string>
+    <string name="discover_empty_body">No activities match these filters. Widen them, or tap + to start one yourself.</string>
+    <string name="discover_location_hint">Your location is unknown, so distances are hidden. Tap to set a home area in Settings.</string>
+    <string name="filter_title">Filter activities</string>
+    <string name="filter_all_categories">All categories</string>
+    <string name="filter_distance">Distance</string>
+    <string name="filter_within">Within %1$d km</string>
+    <string name="filter_any_distance">Any distance</string>
+    <string name="filter_interests">Only activities matching my interests</string>
+    <string name="filter_my_interests">My interests</string>
+    <string name="filter_show_full">Show activities that are full</string>
+    <string name="sort_soonest">Starting soonest</string>
+    <string name="sort_nearest">Nearest</string>
+    <string name="sort_spots">Most spots left</string>
+    <string name="ctx_open">View details</string>
+    <string name="ctx_map">Open in maps app</string>
+    <string name="ctx_report">Report activity</string>
+    <string name="ctx_block">Block host</string>
+    <string name="this_activity">this activity</string>
+    <string name="categories_heading">Browse by what you feel like doing</string>
+    <string name="osm_attribution">© OpenStreetMap contributors</string>
+    <string name="offline_notice">Can\'t reach the server. Showing saved activities.</string>
+    <string name="sync_done">Up to date</string>
+    <string name="progress_sync">Syncing…</string>
+
+    <!-- Plan list rows and statuses -->
+    <string name="spots_left">%1$d of %2$d spots left</string>
+    <string name="spots_full">Full · %1$d going</string>
+    <string name="hosted_by">by %1$s</string>
+    <string name="hosted_by_you">by you</string>
+    <string name="status_open">Open</string>
+    <string name="status_request">Request</string>
+    <string name="status_full">Full</string>
+    <string name="status_going">Going</string>
+    <string name="status_requested">Requested</string>
+    <string name="status_declined">Declined</string>
+    <string name="status_hosting">Hosting</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="status_hidden">Hidden</string>
+    <string name="status_ended">Ended</string>
+
+    <!-- My activities / inbox -->
+    <string name="tab_hosting">Hosting</string>
+    <string name="tab_joined">Joined</string>
+    <string name="my_plans_empty_hosting">You haven\'t posted anything yet.\nTap + to start an activity.</string>
+    <string name="my_plans_empty_joined">You haven\'t joined anything yet.\nFind something in Discover.</string>
+    <string name="inbox_empty">Join requests, approvals and reminders will show up here.</string>
+    <string name="inbox_clear_title">Clear inbox?</string>
+    <string name="inbox_clear_message">This removes all notifications from this list.</string>
+
+    <!-- Create / edit form -->
+    <string name="form_label_title">What\'s the plan?</string>
+    <string name="form_label_category">Category</string>
+    <string name="form_label_description">Details (optional)</string>
+    <string name="form_hint_description">What to bring, what level, anything people should know</string>
+    <string name="form_label_when">When</string>
+    <string name="form_label_place">Meeting place</string>
+    <string name="form_hint_place">e.g. Main gate, Library café</string>
+    <string name="form_no_location">No point on the map yet</string>
+    <string name="form_pick_map">Pick on map</string>
+    <string name="form_use_current">Use my location</string>
+    <string name="form_label_spots">How many people can join?</string>
+    <string name="form_label_join_mode">Who can join?</string>
+    <string name="form_mode_open">Anyone nearby (join instantly)</string>
+    <string name="form_mode_approval">I approve each request</string>
+    <string name="form_public_place">This is a public place (café, campus, park…)</string>
+    <string name="form_post">Post activity</string>
+    <string name="form_save_changes">Save changes</string>
+    <string name="form_posted">Posted! People nearby can now see it.</string>
+    <string name="form_saved">Changes saved</string>
+    <string name="progress_location">Finding your location…</string>
+    <string name="picker_help">Move the map so the pin sits on the meeting point.</string>
+    <string name="picker_confirm">Use this spot</string>
+    <string name="cd_selected_point">Selected point</string>
+
+    <!-- Details -->
+    <string name="details_away">%1$s away</string>
+    <string name="details_spots">%1$d going · %2$d spots left</string>
+    <string name="details_spots_full">%1$d going · full</string>
+    <string name="details_mode_open">Anyone can join instantly</string>
+    <string name="details_mode_approval">The host approves each request</string>
+    <string name="details_hosted_by">Hosted by</string>
+    <string name="details_host_you">you</string>
+    <string name="details_going_title">Who\'s going (%1$d)</string>
+    <string name="details_join">Join</string>
+    <string name="details_request">Request to join</string>
+    <string name="details_cancel_request">Cancel request</string>
+    <string name="details_leave">Leave activity</string>
+    <string name="details_edit">Edit activity</string>
+    <string name="details_cancelled">Cancelled by host</string>
+    <string name="details_ended">This activity has ended</string>
+    <string name="details_safety_note">Meet at the public meeting point. LinkUp never shares your live location.</string>
+    <string name="note_cancelled">The host cancelled this activity.</string>
+    <string name="note_host">You\'re hosting. People who join can chat with you here.</string>
+    <string name="note_going">You\'re going! Meet at %1$s.</string>
+    <string name="note_pending">Waiting for %1$s to approve. You\'ll get a notification.</string>
+    <string name="role_host">Host</string>
+    <string name="role_you">You</string>
+    <string name="section_requests">Join requests</string>
+    <string name="progress_join">Joining…</string>
+    <string name="progress_request">Sending request…</string>
+    <string name="progress_saving">Saving…</string>
+    <string name="toast_joined">You\'re in! See you there.</string>
+    <string name="toast_requested">Request sent to the host</string>
+    <string name="toast_request_cancelled">Request cancelled</string>
+    <string name="toast_left">You left the activity</string>
+    <string name="toast_approved">%1$s is in!</string>
+    <string name="toast_declined">Declined %1$s</string>
+    <string name="toast_plan_cancelled">Activity cancelled. Everyone will be notified.</string>
+    <string name="toast_saved_offline">Saved. It will be sent when the server is reachable.</string>
+    <string name="leave_title">Leave this activity?</string>
+    <string name="leave_message">Your spot will open up for someone else.</string>
+    <string name="cancel_plan_title">Cancel this activity?</string>
+    <string name="cancel_plan_message">Everyone who joined will get a notification.</string>
+    <string name="cancel_plan_yes">Cancel activity</string>
+    <string name="cancel_plan_keep">Keep it</string>
+
+    <!-- Chat -->
+    <string name="chat_hint">Message</string>
+    <string name="chat_empty">No messages yet.\nSay hi 👋 and agree on the details.</string>
+    <string name="chat_sending">sending…</string>
+    <string name="chat_offline">Offline: the message will be sent later</string>
+    <string name="chat_too_long">Messages can be up to 1000 characters</string>
+    <string name="chat_copied">Copied</string>
+    <string name="chat_members_only">Join the activity to see its chat</string>
+    <string name="msg_copy">Copy text</string>
+    <string name="msg_profile">View profile</string>
+    <string name="msg_report">Report this person</string>
+    <string name="msg_block">Block this person</string>
+
+    <!-- Profile -->
+    <string name="verified">Verified</string>
+    <string name="verified_badge">✓ Verified college email</string>
+    <string name="cd_profile_photo">Profile photo</string>
+    <string name="stat_hosted">Hosted</string>
+    <string name="stat_joined">Joined</string>
+    <string name="section_about">About</string>
+    <string name="section_interests">Interests</string>
+    <string name="profile_no_bio">Add a short bio so people know who they\'re meeting.</string>
+    <string name="profile_no_bio_other">No bio yet.</string>
+    <string name="profile_no_interests">No interests yet. Add some to get better matches.</string>
+    <string name="profile_no_interests_other">No interests listed.</string>
+    <string name="profile_unverified">Not verified. Accounts made with a college email (.edu, .edu.in, .ac.in) get a verified badge.</string>
+    <string name="profile_shared">You both like: %1$s</string>
+    <string name="profile_blocked_note">You blocked this person. You won\'t see their activities or messages.</string>
+    <string name="edit_change_photo">Change photo</string>
+    <string name="edit_remove_photo">Remove</string>
+    <string name="edit_bio_counter">%1$d / %2$d</string>
+    <string name="edit_interests_title">Choose interests</string>
+    <string name="edit_no_interests">None chosen yet</string>
+    <string name="edit_saved">Profile saved</string>
+
+    <!-- Safety -->
+    <string name="safety_title">Meet safely</string>
+    <string name="safety_tips_short">• Meet only at the public meeting point shown in the activity.\n• Tell a friend where you\'re going and when.\n• Keep personal details (address, phone) private until you trust someone.\n• Arrange your own way there and back.\n• Leave if anything feels wrong. Report or block anyone who makes you uncomfortable.</string>
+    <string name="safety_understand">I understand</string>
+    <string name="safety_review">Review safety tips</string>
+    <string name="safety_emergency">Emergency: call 112</string>
+    <string name="safety_privacy">LinkUp only shows each activity\'s meeting place. Your live location stays on your phone and is used only to show distances. You can turn that off in Settings.</string>
+    <string name="safety_none_blocked">You haven\'t blocked anyone.</string>
+    <string name="section_privacy">Your privacy</string>
+    <string name="section_blocked">Blocked people (tap to unblock)</string>
+    <string name="report_title">Report %1$s</string>
+    <string name="report_why">What\'s the problem?</string>
+    <string name="report_details_hint">Anything else we should know? (optional)</string>
+    <string name="report_note">Reports are confidential. In an emergency, call 112.</string>
+    <string name="report_send">Send report</string>
+    <string name="report_pick_reason">Please choose a reason</string>
+    <string name="report_thanks">Thanks for reporting. It will be reviewed.</string>
+    <string name="block_title">Block %1$s?</string>
+    <string name="block_message">You won\'t see their activities or chat messages. They won\'t be told.</string>
+    <string name="block_done">%1$s blocked</string>
+    <string name="unblock_title">Unblock %1$s?</string>
+    <string name="unblock_message">You\'ll see their activities and messages again.</string>
+    <string name="unblock_done">%1$s unblocked</string>
+
+    <!-- Settings -->
+    <string name="settings_server_title">LinkUp server</string>
+    <string name="settings_server_help">Emulator: http://10.0.2.2:7070. Real phone on the same Wi-Fi: use the laptop address the server prints when it starts.</string>
+    <string name="settings_server_saved">Server address saved</string>
+    <string name="progress_test">Contacting the server…</string>
+    <string name="settings_test_ok_title">Connected</string>
+    <string name="settings_test_ok">The LinkUp server at %1$s is reachable.</string>
+    <string name="settings_test_fail_title">Can\'t connect</string>
+    <string name="settings_test_help">Check that the server is running (backend/run-server.bat), that the address is right, and that the firewall allows Java.</string>
+    <string name="settings_notifications_title">Notifications</string>
+    <string name="settings_reminders">Remind me 30 minutes before activities</string>
+    <string name="settings_location_title">Privacy &amp; location</string>
+    <string name="settings_use_location">Use my phone\'s location for distances</string>
+    <string name="settings_location_help">Your location never leaves this phone. When this is off, distances are measured from your home area.</string>
+    <string name="settings_home_title">Home area</string>
+    <string name="settings_home_none">Not set</string>
+    <string name="settings_home_pick">Set on map</string>
+    <string name="settings_home_saved">Home area saved</string>
+    <string name="settings_radius_title">Default search radius</string>
+    <string name="settings_radius_value">%1$d km</string>
+    <string name="settings_data_title">Data</string>
+    <string name="settings_sync">Sync now</string>
+    <string name="settings_storage">Storage info (SQLite)</string>
+    <string name="settings_version">LinkUp version %1$s</string>
+
+    <!-- Permissions and errors -->
+    <string name="permissions_title">Two quick permissions</string>
+    <string name="permissions_message">Location lets LinkUp show how far away activities are (your location is never shared).\n\nNotifications tell you about join requests, approvals and reminders.</string>
+    <string name="error_email">Enter a valid email address</string>
+    <string name="error_password_empty">Enter your password</string>
+    <string name="error_password_match">Passwords don\'t match</string>
+    <string name="error_name">Enter your name</string>
+    <string name="error_agree">Please accept the safety guidelines to continue</string>
+    <string name="error_auth_title">Couldn\'t continue</string>
+    <string name="error_session_expired">Your session expired. Please log in again.</string>
+    <string name="error_title">Give your activity a title</string>
+    <string name="error_place">Say where to meet</string>
+    <string name="error_no_location">Pick the meeting point on the map</string>
+    <string name="error_time_past">Choose a time in the future</string>
+    <string name="error_public_place">Activities must start at a public place</string>
+    <string name="error_location_permission">Allow location access first (Android settings → Apps → LinkUp)</string>
+    <string name="error_location_unknown">Couldn\'t get your location. Pick the spot on the map instead.</string>
+    <string name="error_plan_missing">This activity is no longer available</string>
+    <string name="error_user_missing">Profile not found</string>
+    <string name="error_full_approve">There are no spots left. Edit the activity to add spots first.</string>
+    <string name="error_no_app">No app found to open this</string>
+    <string name="error_no_calendar">No calendar app found</string>
+    <string name="error_no_dialer">No phone app found. Dial 112 directly.</string>
+    <string name="error_photo">Couldn\'t use that image</string>
+
+    <plurals name="activities_count">
+        <item quantity="one">%d activity</item>
+        <item quantity="other">%d activities</item>
+    </plurals>
+    <plurals name="people_count">
+        <item quantity="one">%d person</item>
+        <item quantity="other">%d people</item>
+    </plurals>
+    <plurals name="note_requests">
+        <item quantity="one">%d person is waiting for your approval.</item>
+        <item quantity="other">%d people are waiting for your approval.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0E8C80</color>
+    <color name="primary_dark">#0A6B62</color>
+    <color name="primary_light">#D7F2EE</color>
+    <color name="accent">#F59E0B</color>
+    <color name="ink">#1B2733</color>
+    <color name="ink_muted">#5E6B78</color>
+    <color name="line">#E2E8EE</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="background">#F4F7F9</color>
+    <color name="bubble_theirs">#ECEFF2</color>
+
+    <color name="status_open">#0E8C80</color>
+    <color name="status_request">#2F6FDE</color>
+    <color name="status_joined">#2E9E4F</color>
+    <color name="status_pending">#D98A06</color>
+    <color name="status_full">#8A94A0</color>
+    <color name="status_cancelled">#D64545</color>
+    <color name="white">#FFFFFF</color>
+</resources>

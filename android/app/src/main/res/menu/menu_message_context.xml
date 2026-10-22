@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/msg_copy"
+        android:title="@string/msg_copy" />
+    <item
+        android:id="@+id/msg_profile"
+        android:title="@string/msg_profile" />
+    <item
+        android:id="@+id/msg_report"
+        android:title="@string/msg_report" />
+    <item
+        android:id="@+id/msg_block"
+        android:title="@string/msg_block" />
+</menu>

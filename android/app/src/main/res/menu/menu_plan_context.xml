@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ctx_open"
+        android:title="@string/ctx_open" />
+    <item
+        android:id="@+id/ctx_map"
+        android:title="@string/ctx_map" />
+    <item
+        android:id="@+id/ctx_share"
+        android:title="@string/action_share" />
+    <item
+        android:id="@+id/ctx_calendar"
+        android:title="@string/action_calendar" />
+    <item
+        android:id="@+id/ctx_report"
+        android:title="@string/ctx_report" />
+    <item
+        android:id="@+id/ctx_block"
+        android:title="@string/ctx_block" />
+</menu>

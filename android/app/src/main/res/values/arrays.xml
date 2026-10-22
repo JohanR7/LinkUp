@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Order must match DiscoverFragment.TIME_* constants -->
+    <string-array name="time_filters">
+        <item>Any time</item>
+        <item>Next 3 hours</item>
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>This week</item>
+    </string-array>
+
+    <!-- Title examples, same order as Categories.NAMES -->
+    <string-array name="category_examples">
+        <item>e.g. Evening chai at the canteen</item>
+        <item>e.g. Badminton doubles, need 2 more</item>
+        <item>e.g. 5 km morning run</item>
+        <item>e.g. DSA revision before the exam</item>
+        <item>e.g. Trying the new momo place</item>
+        <item>e.g. Board games night</item>
+        <item>e.g. Jamming session, bring a guitar</item>
+        <item>e.g. Sunday walk through the old market</item>
+        <item>e.g. Sketching at the lake</item>
+        <item>e.g. Anything you feel like doing</item>
+    </string-array>
+
+    <string-array name="report_reasons">
+        <item>Made me feel unsafe</item>
+        <item>Harassment or hateful behaviour</item>
+        <item>Fake profile or spam</item>
+        <item>Inappropriate activity</item>
+        <item>Didn\'t show up / misleading details</item>
+        <item>Something else</item>
+    </string-array>
+
+    <string-array name="interest_options">
+        <item>Chai</item>
+        <item>Coffee</item>
+        <item>Badminton</item>
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Running</item>
+        <item>Gym</item>
+        <item>Yoga</item>
+        <item>Walking</item>
+        <item>Cycling</item>
+        <item>Study</item>
+        <item>Coding</item>
+        <item>Reading</item>
+        <item>Movies</item>
+        <item>Music</item>
+        <item>Gaming</item>
+        <item>Board games</item>
+        <item>Photography</item>
+        <item>Art</item>
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Startups</item>
+    </string-array>
+</resources>

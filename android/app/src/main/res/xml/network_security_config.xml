@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The LinkUp server runs on your laptop over plain HTTP during development
+  (10.0.2.2 from the emulator, or the laptop's Wi-Fi IP from a real phone).
+  Android blocks plain HTTP by default, so it is allowed here.
+  Use HTTPS and remove this before a real release.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
